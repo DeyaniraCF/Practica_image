@@ -2,6 +2,7 @@
 
 ## **Configuración de desarrollo local Django, Celery y Redis**
 
+Se llevara a cabo el proyecto de crear un servicio web mediante la utilizacion de **Redis** con las paqueterias de **Django** y las tareas se ejecutaran por medio de colas a traves de **Celery**
 
 Lo primero que realizamos fue descargar el archivo de redis, después de que se descargó el archivo lo que realizamos fue ejecutarlo o en otras palabras entrar a la consola y abrir el archivo e instalarlo. Después fue ejecutar una línea de código la cual era **_redis-server_** donde el servidor se encendía (Siempre debe de estar encendido).
 
